@@ -1,0 +1,26 @@
+{
+  "name": "Dorothy McGuire",
+  "age": 18,
+  "address": {
+    "street": "Higo Parkway",
+    "city": "Fawuese",
+    "state": "OH",
+    "zip": "95738"
+  },
+  "contact": {
+    "phone": "(627) 558-5495",
+    "servicePhone": "800658475"
+  },
+  "birthday": "1968-01-05T04:21:00.742Z",
+  "ip": "171.66.140.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Zogeig ja virmez cit pa is teldin roh noned ret foelep iziomi mefmo seifidi. Go etmerkec ka nabavti ijki celvo be hiofemi nolven gikag cacholve odu. Saput ukowemic ipugosku le bepsimmir gojor cajziz teakebe eloju if ibi gewav awa kavdujjew aco.",
+    "bio": "Datiz lu deb kumehgi rikewahiv ip elnivif comjul ru sozvigdu sognicno pigik er etewo wuwa taw jepepip vidmofer. Fudfa gacu gopbimum ki espensi hesefa omov zavsigtu fu negipsa inmamu lu idpu bohsatef rim. Miohvov pe ciwemas fud de ihi vep mi rorha ze feale ronco wagomaewe jagfi."
+  },
+  "apiKey": "2b29df9f7d273362246abd74459439cbd5d8de2c51659a06f03ced78a7773ac2",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}

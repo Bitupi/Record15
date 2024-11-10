@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Wagner",
+  "age": 29,
+  "address": {
+    "street": "Wako Park",
+    "city": "Solowwo",
+    "state": "KY",
+    "zip": "11807"
+  },
+  "contact": {
+    "phone": "(960) 449-5206",
+    "servicePhone": "800285166"
+  },
+  "birthday": "2000-12-24T04:18:32.874Z",
+  "ip": "157.14.100.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo lizwali ed tunik gauhakom woeho ala ri paerda bibop fete le ju zagzo norpasim bepke zalod kulrerez. Ipo no adaofwuh vo emikuewe fo defso oj dehiet ilehe ozas bo po ihotiw jah ewfauz. Feusakas apuvelnu wafkog lasja hem wa uriko nu uvvu nomibi ek efozid doeg ko eg orjo. Tohicife libnu saele kam asegiiwu ges zameab bolajob be puchemdat zute mo fenrib nugdulef.",
+    "bio": "Ukmumo ed rumpih gazrem dekpidib mekna jub mezma vedhi cemvarcol he pisdoseh su pios dienvu dajwap ca. Bezutit zilro we nebzauc gu pohlab be li kat vut jufjavoh ved egu hu ahalesu kimfone. Omza lojzij fasdul pi na za cekfuz do zi oc utoidi jab su."
+  },
+  "apiKey": "6bfcc3d8baf614c06d251e9662e26e326cf59b86fe6d13a5aa19d6a8dd02013b",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}

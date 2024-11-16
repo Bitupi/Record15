@@ -1,0 +1,26 @@
+{
+  "name": "Curtis Cortez",
+  "age": 18,
+  "address": {
+    "street": "Bubij River",
+    "city": "Cedaspi",
+    "state": "AZ",
+    "zip": "58755"
+  },
+  "contact": {
+    "phone": "(542) 468-3684",
+    "servicePhone": "800849995"
+  },
+  "birthday": "1969-03-20T02:42:46.425Z",
+  "ip": "203.105.79.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Rerero wevor jehhohew nahore hoiro gen ciji esalioco si niwarin suwop bo zefi ju mupofjeg ke. Uga gem id netak dan gepicun uplogoj hi ige fegaka necfes ongaw su eniego vinzav nezeseil hiju jabuk. Sisdiv jej duzigu fumug lunpait sobapev cevil mehnetta egedoheg ozunoskez uta zib utpikik aco.",
+    "bio": "Fubavjoz deczeci donhiw ugelov galkecca ce sikicoaw lollame pez pochajwu suisiam ceifcuz jielpe gezvoiju nir. Vedig ijeji hanimfis azcas din eji akmacow duri ij wozkoktu go depvu. Rikha ek fefohbot guhera micut uz pidubeuc zoskogca zuruwuz pawowi utifahu vawlaoki jobzuwmes va mujo kegkaapo."
+  },
+  "apiKey": "3aeaa622853ad75bd93fe6c108fddda0df3b8bd0cf969527bd450ae9fd58659e",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}

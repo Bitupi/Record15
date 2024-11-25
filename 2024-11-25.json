@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Shaw",
+  "age": 59,
+  "address": {
+    "street": "Fuzfe Grove",
+    "city": "Kiritti",
+    "state": "KY",
+    "zip": "98559"
+  },
+  "contact": {
+    "phone": "(782) 744-7214",
+    "servicePhone": "800851836"
+  },
+  "birthday": "1960-04-13T06:25:08.731Z",
+  "ip": "56.135.20.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze obofoj ko nekitogu ho osugodla vo wit ho radcu gib gaf vu. Gabfaz nuza hodiat belojo ke otvoj zozsav zanko bocwifatu nolduja unbom edutarup cak uc so zag. Rogepuh idilun fivi zaj ojobeszo fetu dero af fa dijonci zob pibumbem vaw amimauf pe pem ve.",
+    "bio": "Sok ja dog rucacaf awu gopap wu elujoanu ribcid akifosu fodecaj wo ve mij sucjuhtig wuifo. Teful sogcimja ci kur nuvgakpal refva okjudbe mope he lalel ukhueje afodanrem. Foscu vudo ho diriipu ji onu vig ra vince ehoges wehtah ekedo lihbawawo pos ehucuzat lordet. Horala cuda ufcu lokifreh eho su jacbulel upnonrik mucoasi putowo akohukvu ma asasi pe."
+  },
+  "apiKey": "aa2b3e7d7d51ee5fef31a7499161a97ba6eb2ae4b0923d8e83ed9cf504681599",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}

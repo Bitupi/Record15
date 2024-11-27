@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Ryan",
+  "age": 20,
+  "address": {
+    "street": "Pilhok Street",
+    "city": "Ekujecuf",
+    "state": "IA",
+    "zip": "63907"
+  },
+  "contact": {
+    "phone": "(765) 838-4263",
+    "servicePhone": "800469891"
+  },
+  "birthday": "1982-11-12T11:00:50.957Z",
+  "ip": "37.69.75.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Ecwoz zil juec duget ejiko wa bic upmoapu lavhi jonuwes fu baw gotsegib vi. Fegitiobu jaum olhiivu uw murujsuz taramot epafo wawbuhlel paifi ki gat vodiza zopfinfe. Oza gar ineimeil hi gurevto afebacur ap zeweb du gukoz ra ippa icafol od jo loz pisidkuf. Ula ginu he jacoh kuimeose safopoj pebri hatpakum onuujagas ackaov cihoj mowipu. Kizsumna hagsu ev agu comegojop ga jopto ijhofeh oz pi cakuffib da. Kok milec usasumajo jo ba vu avise ho hugcu werhakano pugiwusug kazow cog. Bozmu kukvosa wag lic cizegik webzir devaf eva diiccif sokukan leucuvu pud tig tiwaku.",
+    "bio": "Nadaevo usmeb gekove ge po vappadon ak nitmofre tikzotuf ditjamaj muvag fucup. Emus mus iwdub ivaavaos kelhisan devcane jebabigo zesu ca niggesbof zudsitrev lepweptol kov hab ini of meb. Dilja ula iccosov guh ajana rivhagad riprewur ropaljuf datfargeh enu hihacro tucomcaf akajum tus."
+  },
+  "apiKey": "444d4f203ebd5d0bb6a9e0514d3c1bcd1fbae829cb94ccaf8326beee8c89d17f",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}

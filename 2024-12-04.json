@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Peters",
+  "age": 32,
+  "address": {
+    "street": "Tegopo Way",
+    "city": "Hivame",
+    "state": "MO",
+    "zip": "26134"
+  },
+  "contact": {
+    "phone": "(817) 952-5183",
+    "servicePhone": "800493433"
+  },
+  "birthday": "2002-07-31T11:16:14.660Z",
+  "ip": "114.214.189.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiafe az zez tozas pot fef agozadiru ebahewi vo uraim defro pa ri nepesgoz juf ure bazega dehaf. Rizunvu dukzut revinre ju coavo bifva doberi sogner jo zurzuri vin goitoni tid ibnit. Duwbaoge weftuban ili pate taw edu nerarli isauve zeovi hikroflun mifavalo ugsu. Litgaiw taheca siagmez goruv kihjatul latol sofedwo suwamal tolin vimavet vugahge pikaj mib lozughuf kel funfij inuvajpe hec. Verdibog foz jajlelok apusupbem jofboole fasisco ri ov fujtues urnezme tin ziwon zo tebi bug mohfeah wewet birajuji.",
+    "bio": "Ezwustil wowbu zit samunvo sek lu waojesa meruaze kebetzis ojzunon ibagos gej. Keccu he awu fawboj sel jobtus mus naffe hecbe waduzpiv lamelo evoze ucfasgew ubrepzi wim. Riefhub kesufbe vi rup uvwuv lu otovagvin ci mife honuc co fahefiza obezikad."
+  },
+  "apiKey": "841be878e133ddea1653c2fa0a21c3a75b6e96d44124600ae5c914db48891b86",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}

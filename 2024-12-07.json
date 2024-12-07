@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Wheeler",
+  "age": 65,
+  "address": {
+    "street": "Afvet Square",
+    "city": "Habejhiw",
+    "state": "OH",
+    "zip": "51434"
+  },
+  "contact": {
+    "phone": "(382) 704-7695",
+    "servicePhone": "800567557"
+  },
+  "birthday": "1962-10-11T08:25:23.794Z",
+  "ip": "235.23.188.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Dokesapig op hej mor raokfec lu sorijem wohaw nafa worbocwe wajetaam sema ceti va hu tazvamgi roak. Sihruz udocu paot fim davuropaw pu kovbizja badetov honpivu emla bid hughocal ze ke bewuwud. Kitsarvu suploolu fum mezub ted unoirufa ka zomad ibza deb huicuf koguvme so pakeh kabbode jog faen vab.",
+    "bio": "Hotsim mabpij vehwuvwa jus afgonro vojecugi asbejsu abaazket igtacud ejlazar doc pu zasu. Vi debiw fe pevabtan netil jokusoime esi nurerrat ki zo ap vipif izvokpu wo kumhuvol fuzso itiuhoane. Ozwupfar ziw dec amtupa lojkidza wuprah cup ju om nelkaz ef mu tilof."
+  },
+  "apiKey": "25d82b84ae1ae2ccd6755de69e85f5bd0682dd3b30d44d8ccae2b306c631dd0c",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
